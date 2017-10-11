@@ -1,0 +1,1 @@
+This is just a simple repro project showing how to set a global request timeout with Refit
